@@ -3,4 +3,4 @@
 2.试验添加c++方法，c++新文件的方式<br>
 
 运行截图ffmpeg 3.3.2 :<br>
-<img src="https://github.com/horst1990/RunFFmpeg/blob/master/runResult.png" alt="GitHub" title="GitHub,Social Coding"/>
+<img src="https://github.com/horst1990/RunFFmpeg/blob/master/runResult.png" alt="GitHub" title="GitHub,Social Coding" width="720" height="1080"/>
